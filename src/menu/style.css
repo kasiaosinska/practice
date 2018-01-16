@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li > a {
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.active {
+    color: red;
+}
