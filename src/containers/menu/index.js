@@ -15,6 +15,9 @@ const Menu = () => {
                 <li>
                     <NavLink activeClassName='active' to="/calculator">Kalkulator</NavLink>
                 </li>
+                <li>
+                    <NavLink activeClassName='active' to="/toDoList">To do list</NavLink>
+                </li>
             </ul>
         </div>
     )
